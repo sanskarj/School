@@ -1,0 +1,393 @@
+.main-container{
+    width: 100%;
+}
+.header{
+    width: 100%;
+}
+.row{
+    width: 100%;
+    
+}
+.school-logo{
+    height: 8rem;
+    width: 8rem;
+    margin-top: 2rem;
+}
+.school-intro-para{
+    width: 100%;
+}
+.header-row{
+    margin-bottom: 4rem;
+}
+.main-container{
+    
+    width: 98%;
+    margin: 0.9rem auto;
+
+    
+}
+
+.header{
+    width: 100%;
+    height: 100%;
+    background-image: url(./classroom_184376/classroom.jpg);
+    color: white;
+    font-family: cursive;
+    margin-bottom: 0.2rem;
+    
+}
+.explore-btn-row{
+    padding-bottom: 2rem;
+}
+
+.heading-column{
+    border-bottom: 1px solid white;
+    text-align: center;
+    
+}
+.links-section{
+    padding-top: 3.5rem;
+    
+    background:linear-gradient(to right bottom,rgba(186, 118, 40, 0.637),rgba(186, 118, 40, 0.822)),url(./school_classroom_boys_224576/school_classroom_boys.jpg);
+    color: white;
+    padding-bottom: 3.5rem;
+}
+.heading-division{
+    border-bottom: 1.5px solid white;
+    padding-bottom: 0.3rem;
+    width: 80%;
+    margin-bottom: 3rem;
+}
+.btn-explore{
+    background-color: rgba(186, 118, 40, 1);
+    color: white;
+}
+.links-section-head{
+    margin-left: 2.1rem;
+    font-family: sans-serif;
+}
+.links-container{
+    
+}
+.link-1{
+   
+   
+    padding: 1rem 2rem;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: all .4s;
+
+}
+.link-1:hover{
+    background-color: white;
+    color: rgba(186, 118, 40, 1);
+    transform: translateY(-3px);
+}
+.link{
+    margin-bottom: 2.2rem;
+}
+.academics-section{
+    padding-top: 4rem;
+    background: linear-gradient(to right bottom,rgba(23, 143, 234, 0.699),rgba(23, 143, 234, 0.904)),url(./iraq_children_school_221364/iraq_children_school.jpg);
+    margin-top: 0.3rem;
+    padding-bottom: 5rem;
+}
+.departments-column{
+    color : white;
+
+
+}
+.departments-heading{
+    border-bottom: 1px solid white;
+    width: 80%;
+}
+.departments-links{
+    margin-top: 1rem;
+
+}
+.department-link{
+    
+    
+    padding: 1rem 2rem;
+    margin-bottom: 0.4rem;
+    width: 50%;
+    background: linear-gradient(90deg,white 0%,white 1%,transparent 1%);
+    transition: all .5s;
+   
+
+}
+.department-link:hover{
+    transform: translateY(-4px);
+    transform:translateX(4px);
+   
+    
+
+}
+
+
+.department-link-real{
+    text-decoration: none;
+    color: white;
+
+}
+.department-link-real:hover{
+    text-decoration: none;
+    color: white;
+}
+.syllabus-heading{
+    color: white;
+    border-bottom: 1px solid white;
+}
+.syllabus-links{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+}
+.syllabus-link{
+    background: linear-gradient(90deg,white 0%,white 1%,transparent 1%);
+    padding: 0rem 0.7rem;
+    transition: all .5s;
+    color: white;
+}
+.syllabus-link:hover,.results-link:hover{
+    transform: translateY(-4px);
+    transform:translateX(4px);
+}
+.syllabus-link-real,.results-link-real{
+    color: white;
+    text-decoration: none;
+}
+.syllabus-link-real:hover,.results-link-real:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.results{
+
+}
+.results-heading{
+
+ color: white;
+    border-bottom: 1px solid white;
+}
+
+.results-links{
+  color:white;
+}
+.results-link{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(90deg,white 0%,white 0.1%,transparent 0.1%);
+    padding: 0rem 0.7rem;
+    transition: all .5s;
+
+}
+.final-link{
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+    transition: all .3s;
+    display: block;
+    text-align: center;
+}
+.final-link:hover{
+    color: white;
+    transform: translateY(-5px);
+}
+.academics-heading{
+    color: white;
+    text-transform: uppercase;
+}
+.arrow-2{
+
+    transition: all .3s;
+    animation-name: visibility;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-delay: 0.3s;
+
+}
+.image-acad{
+    height: 15rem;
+    width: 15rem;
+    transition: all .4s;
+}
+.admission-procedure{
+    margin-top: 0.4rem;
+    background:linear-gradient(to right bottom,rgba(186, 118, 40, 0.637),rgba(186, 118, 40, 0.822)),url(./school_classroom_boys_224576/school_classroom_boys.jpg);
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.procedure-heading{
+    border-bottom: 1px solid white;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.images-column{
+    margin-left: 2rem;
+}
+.image-faculty{
+    height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+}
+.faculties-section{
+    background: linear-gradient(to right bottom,rgba(23, 143, 234, 0.699),rgba(23, 143, 234, 0.904)),url(./iraq_children_school_221364/iraq_children_school.jpg);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-top: 0.5rem;
+}
+.faculty-heading-row{
+    text-align: center;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    font-family: cursive;
+    color: white;
+    
+   
+}
+.faculty-head-column{
+    border-bottom: 1px solid white;
+}
+.faculty-card-column{
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   
+   background-color: white;
+   border-top-left-radius: 5rem;
+   border-top-right-radius: 5rem;
+   border-bottom-left-radius: 2rem;
+   border-bottom-right-radius: 2rem;
+}
+.faculty-cards{
+    margin-left: 3rem;
+}
+
+@keyframes visibility{
+    
+    from {opacity: 1;}
+    to{ opacity: 0;}
+}
+@media only screen and (max-width:762px){
+    .school-intro-para{
+        margin-left: 1.2rem;
+    }
+    .education-system-para{
+        margin-left: 3rem;
+    }
+    .heading-division{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    }
+   .links-container{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+   }
+   .departments-links{
+       display: grid;
+       grid-template-rows: repeat(4,4rem);
+       grid-template-columns: repeat(2,40%);
+       grid-gap: 1rem;
+       justify-content:space-around;
+       align-content: center;
+       justify-items: center;
+       align-items: center;
+       margin-bottom: 3rem;
+
+   }
+   .departments-heading,.syllabus-heading,.results-heading{
+      width: 100%;
+      text-align:  center;
+      margin-top: 2rem;
+   }
+   .syllabus-links{
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+   }
+   .results-links{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+      
+   }
+   .final-link{
+       font-size: 1.3rem;
+   }
+   .acad-row{
+       display: flex;
+       flex-direction: column-reverse;
+   }
+   .procedure-paragraph{
+       margin-left: 2rem;
+   }
+   .image-acad{
+       height: 12rem;
+      width: 12rem;
+   }
+   .images-row{
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+       margin-bottom: 1rem;
+       margin-top: 1rem;
+       flex-direction: row;
+       
+
+   }
+  .faculty-card-column{
+      margin-left: 3rem;
+      margin-bottom: 2rem;
+  } 
+   
+
+  
+   
+   
+
+}
+@media only screen and (max-width:650px){
+    .main-container{
+        width: 100%;
+        margin: 0rem;
+    }
+    
+}
+@media only screen and (max-width:565px){
+    .image-acad{
+        width: 80%;
+        margin-left:4rem;
+        height: 15rem;
+        margin-bottom: 1rem;
+    }
+}
+@media only screen and (max-width:440px){
+   
+   .fluid-container{
+       margin-right: -5rem;
+   }
+}
+@media only screen and (max-width:411px){
+    .image-acad{
+        margin-left: 3rem; 
+    }
+0}
+@media only screen and (max-width:347px){
+    .fluid-container{
+        margin-right: -8rem;
+    }
+}
+
+
+
+
